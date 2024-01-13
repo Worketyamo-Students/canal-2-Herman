@@ -14,7 +14,7 @@ padding: 0;
 border: 0;
 }
 body{
-/* background-color: grey; */
+background-color: grey;
 }
 .premiere{
 display: flex;
@@ -23,7 +23,7 @@ align-items: center;
 
 }
 .img-1{
-background: url(./images/téléchargement__1_-removebg-preview\ 1.png);
+background: url(../images/logo.png);
 width: 103px;
 height: 69px;
 margin-top: 20px;
@@ -57,12 +57,10 @@ color: #fff;
 display: flex;
 flex-direction: column;
 }
-.deuxiemen{
-display: flex;
-margin-top: 50px;
-}
+.deuxieme{ display: flex;
+margin-top: 50px;}
 .img-2{
-background: url(./images/Francis-Ngannou-domine-Ciryl-Gane-au-sol-et-remporte-le-combat-par-decision-unanime\ 1.png);
+background: url(../images/Francis-Ngannou-domine-Ciryl-Gane-au-sol-et-remporte-le-combat-par-decision-unanime\ 1.png);
 background-size: cover;
 width: 841.64px;
 height: 622px;
@@ -117,7 +115,7 @@ margin-top: 13px;
 margin-bottom: 40px;
 }
 .img3{
-background: url(./images/annie-spratt-cVEOh_JJmEE-unsplash\ 1.png);
+background: url(../images/enfant1.png);
 width: 235px;
 height: 150px;
 top: 220px;
@@ -155,7 +153,7 @@ margin-top: 25px;
 margin-right: 15px;
 }
 .img4{
-background: url(./images/images\ \(5\)\ 1.png);
+background: url(../images/police.png);
 width: 235px;
 height: 150px;
 top: 424px;
@@ -164,7 +162,7 @@ border-radius: 10px;
 
 }
 .img5{
-background: url(./images/téléchargement\ \(3\)\ 1.png);
+background: url(../images/ville.png);
 width: 235px;
 height: 150px;
 top: 424px;
@@ -184,7 +182,7 @@ display: flex;
 flex-direction: column;
 }
 .img6{
-background: url(./images/201606-cmr-11-lpr-2\ 1.png);
+background: url(../images/enfant2.png);
 background-size: cover;
 width: 343px;
 height: 353px;
@@ -194,7 +192,7 @@ border-radius: 10px;
 
 }
 .img7{
-background: url(./images/images\ \(6\)\ 1.png);
+background: url(../images/opposition.png);
 background-size: cover;
 width: 343px;
 height: 353px;
@@ -204,7 +202,7 @@ border-radius: 10px;
 
 }
 .img8{
-background: url(./images/1200-L-can-norme-surprise-le-cameroun-battu-par-la-namibie\ 1.png);
+background: url(../images/aboubakar.png);
 background-size: cover;
 width: 343px;
 height: 353px;
@@ -214,7 +212,7 @@ border-radius: 10px;
 
 }
 .img{
-background: url(./images/Rectangle\ 34.png);
+background: url(../images/youtube.png);
 background-size: cover;
 width: 1120px;
 height: 623px;
@@ -257,7 +255,7 @@ display: flex;
 margin-left: 30px;
 }
 .img9{
-background: url(./images/Rectangle\ 22.png);
+background: url(../images/canal.png);
 width: 718px;
 height: 471px;
 border-radius: 20px;
@@ -281,7 +279,7 @@ left: 827px;
 
 }
 .inst{
-background: url(./images/🦆\ icon\ _rounded\ instagram_.png);
+background: url(../images/🦆\ icon\ \ instagram_.png);
 background-size: cover;
 width: 31.93px;
 height: 36.48px;
@@ -290,14 +288,14 @@ height: 36.48px;
 
 }
 .face{
-background: url(./images/🦆\ icon\ _circle\ facebook_.png);
+background: url(../images/🦆\ icon\ \ facebook_.png);
 background-size: cover;
 width: 31.93px;
 height: 36.48px;
 margin-left: 20px;
 }
 .twit{
-background: url(./images/🦆\ icon\ _twitterbird_.png);
+background: url(../images/🦆\ icon\ _twitterbird_.png);
 background-size: cover;
 width: 35.93px;
 height: 36.48px;
@@ -305,7 +303,7 @@ margin-left: 20px;
 
 }
 .in{
-background: url(./images/🦆\ icon\ _rounded\ linkedin_.png);
+background: url(../images/🦆\ icon\ linkedin_.png);
 background-size: cover;
 width: 31.93px;
 height: 36.48px;
@@ -323,18 +321,18 @@ flex-direction: column;
 align-items: center;
 }
 .img10{
-background: url(./images/min_nous_chez_vous1\ 1.png);
+background: url(../images/nous_chez_vous.png);
 background-size: cover;
 width: 320px;
 height: 197px;
 }
 .img11{
-background: url(./images/min_arene\ 1.png);
+background: url(../images/arene.png);
 background-size: cover;
 width: 320px;
 height: 197px;}
 .img12{
-background: url(./images/min_comedie_presse\ 1.png);
+background: url(../images/comedie_presse.png);
 background-size: cover;
 width: 320px;
 height: 197px;}
@@ -343,7 +341,7 @@ display: flex;
 margin-top: 50px;
 }
 .img13{
-background: url(./images/Rectangle\ 23.png);
+background: url(../images/c\'comment.png);
 background-size: cover;
 width: 681px;
 height: 471px;
@@ -384,7 +382,7 @@ height: 50px;
 /* rotate: 270deg; */
 }
 .img14{
-/* background: url(./images/Rectangle\ 28.png); */
+background: url(../images/pub.png);
 background-size: cover;
 width: 1378px;
 height: 579px;
@@ -396,7 +394,7 @@ justify-content: space-around;
 margin-top: 50px;
 }
 .img15{
-background: url(./images/jackson-david-BL_Q4zjduGU-unsplash\ 2.png);
+background: url(../images/jackson-david.png);
 background-size: cover;
 width: 343px;
 height: 353px;
@@ -415,7 +413,7 @@ height: 426px;
 
 }
 .img16{
-background: url(./images/téléchargement__1_-removebg-preview\ 1.png);
+background: url(../images/pub.png);
 background-size: cover;
 width: 372px;
 height: 213px;

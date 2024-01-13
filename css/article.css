@@ -1,0 +1,422 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400;1,500&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+@impot url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+:root{
+--colorprimary: #618264;
+--colorsecondary: #443434;
+--font-family: 'IBM Plex Sans', sans-serif;
+--font-family: 'Open Sans', sans-serif;
+--border-radius: 20px;
+}
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+body{
+/* background-color: grey; */
+}
+.premiere{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.img-1{
+background: url(./images/téléchargement__1_-removebg-preview\ 1.png);
+width: 103px;
+height: 69px;
+margin-top: 20px;
+margin-left: 45px;
+
+}
+a{
+text-decoration: none;
+text-transform: none;
+color: black;
+width: 647px;
+height: 35px;
+margin-top: 37px;
+margin-left: 91px;
+
+}
+button{
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+width: 203px;
+height: 69px;
+margin-top: 24px;
+margin-left: 58px;
+margin-right: 30px;
+background-color: #618264;
+color: #fff;
+}
+.page{
+display: flex;
+flex-direction: column;
+}
+.deuxiemen{
+display: flex;
+margin-top: 50px;
+}
+.img-2{
+background: url(./images/Francis-Ngannou-domine-Ciryl-Gane-au-sol-et-remporte-le-combat-par-decision-unanime\ 1.png);
+background-size: cover;
+width: 841.64px;
+height: 622px;
+top: 157px;
+margin-left: 44px;
+border-radius: 20px;
+}
+input{
+background-color: #618264;
+width: 15px;
+height: 120px;
+
+}
+.note{
+margin-left: 20px;
+margin-top: 500px;
+display: flex;
+background: linear-gradient(10.82deg, rgba(0, 0, 0, 0.95) 1.55%, rgba(0, 0, 0, 0) 51.18%);
+
+}
+h1{
+margin-left: 10px;
+font-size: var(--font-family);
+font-family: IBM Plex Sans Hebrew;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+}
+span{
+margin-left: 10px;
+font-family: IBM Plex Sans Hebrew;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+margin-top: 20px;
+}
+.colum{
+display: flex;
+flex-direction: column;
+margin-left: 25px;
+}
+.div-1{
+display: flex;
+align-content: space-between;
+margin-top: 13px;
+margin-bottom: 40px;
+}
+.img3{
+background: url(./images/annie-spratt-cVEOh_JJmEE-unsplash\ 1.png);
+width: 235px;
+height: 150px;
+top: 220px;
+left: 970px;
+border-radius: 10px;
+
+}
+.input-2{
+width: 13px;
+height: 50px;
+top: 151px;
+left: 970px;
+
+}
+h2{
+width: 189px;
+height: 52px;
+top: 227px;
+left: 1221px;
+
+}
+h6{
+color: #618264;
+}
+.commentaire{
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 201px;
+height: 51px;
+margin-top: 25px;
+margin-right: 15px;
+}
+.img4{
+background: url(./images/images\ \(5\)\ 1.png);
+width: 235px;
+height: 150px;
+top: 424px;
+left: 970px;
+border-radius: 10px;
+
+}
+.img5{
+background: url(./images/téléchargement\ \(3\)\ 1.png);
+width: 235px;
+height: 150px;
+top: 424px;
+left: 970px;
+border-radius: 10px;
+
+}
+.troisieme{
+display: flex;
+justify-content: space-between;
+margin-left: 30px;
+margin-right: 30px;
+margin-bottom: 30px;
+}
+.div-2{
+display: flex;
+flex-direction: column;
+}
+.img6{
+background: url(./images/201606-cmr-11-lpr-2\ 1.png);
+background-size: cover;
+width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.img7{
+background: url(./images/images\ \(6\)\ 1.png);
+background-size: cover;
+width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.img8{
+background: url(./images/1200-L-can-norme-surprise-le-cameroun-battu-par-la-namibie\ 1.png);
+background-size: cover;
+width: 343px;
+height: 353px;
+top: 913px;
+left: 64px;
+border-radius: 10px;
+
+}
+.img{
+background: url(./images/Rectangle\ 34.png);
+background-size: cover;
+width: 1120px;
+height: 623px;
+border-radius: 20px;
+margin-left: 120px;
+}
+p{
+font-family: IBM Plex Sans Hebrew;
+font-size: 48px;
+font-weight: 600;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 60px;
+margin-bottom: 20px;
+
+}
+h3{
+font-family: IBM Plex Sans Hebrew;
+font-size: 48px;
+font-weight: 600;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: left;
+color: #618264;
+margin-left: 30px;
+}
+h4{
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 30px;
+margin-top: 20px;
+}
+.ciquime{
+display: flex;
+margin-left: 30px;
+}
+.img9{
+background: url(./images/Rectangle\ 22.png);
+width: 718px;
+height: 471px;
+border-radius: 20px;
+
+}
+.notecanal{
+width: 618px;
+height: 227px;
+top: 2573px;
+left: 827px;
+
+}
+.icon{
+display: flex;
+width: 232px;
+margin-top: 30px;
+margin-left: 70px;
+height: 36.48px;
+top: 2937px;
+left: 827px;
+
+}
+.inst{
+background: url(./images/🦆\ icon\ _rounded\ instagram_.png);
+background-size: cover;
+width: 31.93px;
+height: 36.48px;
+
+
+
+}
+.face{
+background: url(./images/🦆\ icon\ _circle\ facebook_.png);
+background-size: cover;
+width: 31.93px;
+height: 36.48px;
+margin-left: 20px;
+}
+.twit{
+background: url(./images/🦆\ icon\ _twitterbird_.png);
+background-size: cover;
+width: 35.93px;
+height: 36.48px;
+margin-left: 20px;
+
+}
+.in{
+background: url(./images/🦆\ icon\ _rounded\ linkedin_.png);
+background-size: cover;
+width: 31.93px;
+height: 36.48px;
+margin-left: 20px;
+
+}
+.sixieme{
+display: flex;
+margin-top: 50px;
+justify-content: space-between;
+}
+.div-3{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.img10{
+background: url(./images/min_nous_chez_vous1\ 1.png);
+background-size: cover;
+width: 320px;
+height: 197px;
+}
+.img11{
+background: url(./images/min_arene\ 1.png);
+background-size: cover;
+width: 320px;
+height: 197px;}
+.img12{
+background: url(./images/min_comedie_presse\ 1.png);
+background-size: cover;
+width: 320px;
+height: 197px;}
+.septieme{
+display: flex;
+margin-top: 50px;
+}
+.img13{
+background: url(./images/Rectangle\ 23.png);
+background-size: cover;
+width: 681px;
+height: 471px;
+border-radius: 20px;
+
+}
+.huitieme{
+display: flex;
+margin-top: 50px;
+margin-left: 20px;
+
+}
+.pub{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+width: 30px;
+margin-left: 30px;
+align-items: center;
+/* rotate: 270deg; */
+}
+.pub2{
+font-family: IBM Plex Sans Hebrew;
+font-size: 48px;
+font-weight: 600em;
+line-height: 62px;
+color: #618264;
+width: 444px;
+height: 70px;
+rotate: -90deg;
+padding-left: 100px;
+
+}
+hr{
+background-color: #618264;
+width: 13px;
+height: 50px;
+/* rotate: 270deg; */
+}
+.img14{
+/* background: url(./images/Rectangle\ 28.png); */
+background-size: cover;
+width: 1378px;
+height: 579px;
+margin-right: 10px;
+}
+.neuvieme{
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+}
+.img15{
+background: url(./images/jackson-david-BL_Q4zjduGU-unsplash\ 2.png);
+background-size: cover;
+width: 343px;
+height: 353px;
+border-radius: 10px;
+margin-left: 10px;
+}
+.dixieme{
+margin-top: 100px;
+display: flex;
+flex-direction: column;
+align-items:center;
+justify-content: center;
+background: #618264;
+width: 1512px;
+height: 426px;
+
+}
+.img16{
+background: url(./images/téléchargement__1_-removebg-preview\ 1.png);
+background-size: cover;
+width: 372px;
+height: 213px;
+}
